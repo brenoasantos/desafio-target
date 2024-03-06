@@ -1,1 +1,1 @@
-Questões resolvidas do desafio proposto pela Target. As questões que envolveram código foram realizadas utilizando Java. Foi um ótimo desafio, composto por várias desafios de lógica tanto nas questões mais práticas, que demandaram código, como nas mais teóricas.
+Questões resolvidas do desafio proposto pela Target. As questões que envolveram código foram realizadas utilizando Java. Foi um ótimo desafio, composto por várias desafios de lógica tanto nas questões mais práticas, que demandaram programação, como nas mais teóricas.
